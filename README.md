@@ -1,5 +1,5 @@
-# Floor
-**A supportive SQLite abstraction for your Flutter applications.**
+# Room 
+**A port of Room to flutter SQLite abstraction for your Flutter applications.**
 
 The Floor library provides a lightweight SQLite abstraction with automatic mapping between in-memory objects and database rows while still offering full control of the database with the use of SQL.
 
